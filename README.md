@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ForFather
 - 👀 I’m interested in ... Programing and Electronics
-- 🌱 I’m currently learning ... Web dev and software dev
+- 🌱 I’m currently learning ... Web dev 
 - 💞️ I’m looking to collaborate on ...Something intresting
 - 📫 How to reach me ...This website or my insta
 - 😄 Pronouns: ...He/Him

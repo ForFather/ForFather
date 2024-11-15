@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ForFather
-- 👀 I’m interested in ... Programing and Electronics
-- 🌱 I’m currently learning ... Web dev 
+- 👀 I’m interested in ... IT
+- 🌱 I’m currently learning ... Everything 
 - 💞️ I’m looking to collaborate on ...Something intresting
 - 📫 How to reach me ...This website or my insta
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ... David V.
+- ⚡ Fun fact: ... I am dead inside
 
 <!---
 ForFather/ForFather is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
